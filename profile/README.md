@@ -1,5 +1,6 @@
 # 👀
 
 Stay Informed about Arvon
-- [Discord Server](https://discord.gg/NrthaQps)
-- [X](https://x.com/arvonapp)
+- [Arvon X](https://x.com/arvonapp)
+- [Arvon Status X](https://x.com/arvonstatus)
+- [Arvon Developers X](https://x.com/arvondev_)
